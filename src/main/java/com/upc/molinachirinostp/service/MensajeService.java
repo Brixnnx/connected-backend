@@ -1,5 +1,3 @@
-package com.upc.molinachirinostp.service;
-
 import com.upc.molinachirinostp.entity.Mensaje;
 import com.upc.molinachirinostp.entity.Usuario;
 import com.upc.molinachirinostp.repository.MensajeRepository;
